@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hw1;
+package cashflows;
     import jsl.utilities.random.distributions.Normal;
     import jsl.utilities.statistic.Statistic;
 /**
